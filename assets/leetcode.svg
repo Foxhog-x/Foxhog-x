@@ -25,7 +25,7 @@
         font-size="32"
         font-weight="bold"
         font-family="Arial">
-    39
+    43
   </text>
 
   <text x="35" y="160"
@@ -39,14 +39,14 @@
         fill="#ffffff"
         font-size="24"
         font-family="Arial">
-    Easy 33
+    Easy 36
   </text>
 
   <text x="390" y="135"
         fill="#ffffff"
         font-size="24"
         font-family="Arial">
-    Medium 6
+    Medium 7
   </text>
 
   <text x="570" y="135"
