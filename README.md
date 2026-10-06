@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Onkar
 
-### Full Stack Developer | React.js · Next.js · Node.js · TypeScript · PostgreSQL
+### Full Stack Developer | React.js · Next.js · Node.js · TypeScript · Java · Spring Boot · PostgreSQL
+
 
 I’m a Full Stack Developer focused on building **SaaS products, scalable APIs, payment systems, and production-ready web applications**.
 
@@ -35,10 +36,10 @@ I enjoy working across the stack — from designing databases and APIs to buildi
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven" />
 </p>
 
-`Node.js` `Express.js` `REST APIs` `Axios` `JWT` `RBAC` `Webhooks` `Background Jobs` `Workers` `RabbitMQ` `Redis`
+`Node.js` `Express.js` `Java` `Spring Boot` `Maven` `REST APIs` `Axios` `JWT` `RBAC` `Webhooks` `Background Jobs` `Workers` `RabbitMQ` `Redis`
 
 ### Database
 
@@ -66,7 +67,7 @@ I enjoy working across the stack — from designing databases and APIs to buildi
 <img src="https://skillicons.dev/icons?i=git,github,postman,bun,vscode,java" />
 </p>
 
-`Git` `GitHub` `Postman` `Bun` `Cursor` `Claude` `Gemini API` `Java` `Three.js`
+`Git` `GitHub` `Postman` `Bun` `Cursor` `Claude` `Gemini API` `Maven` `Three.js`
 
 ---
 
